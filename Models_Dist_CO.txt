@@ -1,0 +1,8 @@
+We can create 3 or 4 different models variing the number density of the molecule
+
+
+Model 1: T< 20 . N_co = 0   T> 20K N_co=1e-5
+Model 2: At Z=1H , gaussian width Delta Z = H N_co=1e-5    (enable us to control the emitting region)
+Model 3: At Z=2H , same gaussian width
+Model 4: More complex ?
+
